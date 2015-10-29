@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>37B388E6-B328-44EC-8C3A-D729B829FA97</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DropIt3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>345F0C9095EF8750E8ED447E41396739A0A13156</key>
+		<string>https://github.com/garthmac/DropIt3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DropIt3.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>345F0C9095EF8750E8ED447E41396739A0A13156</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/garthmac/DropIt3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>345F0C9095EF8750E8ED447E41396739A0A13156</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>345F0C9095EF8750E8ED447E41396739A0A13156</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DropIt3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
